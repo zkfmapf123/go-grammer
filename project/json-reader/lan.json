@@ -1,0 +1,17 @@
+{
+	"ko": {
+		"greet": "안녕하세요",
+		"bye": "수고하세요",
+		"cheerup": "힘내세요"
+	},
+	"en": {
+		"greet": "hello",
+		"bye": "goodbye",
+		"cheerup": "cheerup man"
+	},
+	"jp": {
+		"greet": "ohayo",
+		"bye": "gg",
+		"cheerup": "!!!!"
+	}
+}
