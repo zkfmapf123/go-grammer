@@ -1,4 +1,4 @@
-package src
+package types
 
 import "fmt"
 
@@ -12,14 +12,6 @@ func NewBook(title string, price int) book {
 	return b
 }
 
-func (b book) setTitle(t string) {
-	b.title = t
-}
-
-func (b book) setPrice(p int) {
-	b.price = p
-}
-
-func (b book) getPrint() {
+func (b book) Print() {
 	fmt.Println(b.title, b.price)
 }
